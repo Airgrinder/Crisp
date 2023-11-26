@@ -35,6 +35,10 @@ header {
   height: 32px;
 }
 
+.header-nav-list-item img {
+  margin: 0 4px -3px 0;
+}
+
 .current-nav:after {
   margin: 28px 0 0 -43px;
   content: '';
@@ -44,7 +48,6 @@ header {
   border: 1px #EB5757 solid;
   box-sizing: border-box;
 }
-
 
 .header-login {
   display: flex;
