@@ -1,0 +1,33 @@
+.brands {
+  position: relative;
+  margin-top: 41px;
+  width: 1876px;
+  height: 196px;
+  border: #C4C4C4 2px solid;
+  display: flex;
+}
+
+.brands-title {
+  width: 369px;
+  background: white;
+  margin: -36px 0 0 754px;
+  position: absolute;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 68px;
+  display: flex;
+  justify-content: center;
+}
+
+.brands-cards {
+  padding: 0 11px 1px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.brands-cards img {
+  width: 235px;
+  height: 141px;
+}
