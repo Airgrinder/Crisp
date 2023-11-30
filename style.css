@@ -4,6 +4,7 @@
 @import url("./src/styles/main.css");
 @import url("./src/styles/brands.css");
 @import url("./src/styles/promo.css");
+@import url("./src/styles/shop.css");
 
 * {
   font-family: 'Oswald', sans-serif;
